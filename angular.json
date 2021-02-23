@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "custom-validate"
+    }
+  },
+  "defaultProject": "custom-validate",
+  "cli": {
+    "analytics": false
+  }
 }
